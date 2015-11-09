@@ -2,7 +2,7 @@
 
 [Report](http://www.doingbusiness.org/reports/global-reports/doing-business-2016) chosen as a recent high profile WBG output. Below is the first data figure in the report.
 
-How hard would it be to reproduce?
+Suppose I wanted to dig into this chart. For example, to figure out which countries look better under the new methodology vs. which countries look worse (ie. which side of the 45 degree line are they on). How hard would it be to reproduce?
 
 ![Figure 1.2 from DB16 report](db16-fig1.2.png)
 
