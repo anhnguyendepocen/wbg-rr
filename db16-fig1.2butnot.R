@@ -41,4 +41,4 @@ ggplot(db_dtf, aes(dtf_2015, dtf_2014)) +
   ylab("Distance to frontier score, 2014 (old methid, 0-100)") +
   geom_segment(aes(x = 30, y = 30, xend = 90, yend = 90), colour = "red")
 
-ggsave("fig1.2butnot.png", dpi=72)
+ggsave("fig1.2butnot.png", dpi=96, width=12, height=8)
