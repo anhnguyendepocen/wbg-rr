@@ -32,7 +32,7 @@ What? It turns out this is not XLS format, but HTML table saved with a ".xls" ex
 
 ![5 - Bulk metric](screenshots/5 - Bulk metric.png)
 
-Ok this is better, it's exactly what I want. And, as a bonus, hidden on the second sheet it has the previous methodology. Jackpot!
+Ok this is better, it's exactly what I want. And, as a bonus, lurking on the second sheet it has the previous methodology. Jackpot!
 
 ## Creating chart
 
